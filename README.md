@@ -12,7 +12,6 @@ The dataset contains details such as:
 - Rainfall levels  
 - Other environmental and infrastructural factors  
 
-> 🔍 *Note: If you know the exact source of the dataset, please update this section.*
 
 ## ✅ Main Tasks Performed  
 - 📥 Imported the dataset and performed an initial inspection  
